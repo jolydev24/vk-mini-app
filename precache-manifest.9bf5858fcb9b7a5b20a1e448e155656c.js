@@ -1,30 +1,30 @@
 self.__precacheManifest = [
   {
-    "revision": "ba486c54be9667735fdf",
+    "revision": "c3ff77eadae4a8018114",
     "url": "./static/css/main.6065fcec.chunk.css"
   },
   {
-    "revision": "ba486c54be9667735fdf",
-    "url": "./static/js/main.0ec545bd.chunk.js"
+    "revision": "c3ff77eadae4a8018114",
+    "url": "./static/js/main.d01fc3e1.chunk.js"
   },
   {
     "revision": "8c97409f0ee389fe75da",
     "url": "./static/js/runtime~main.d653cc00.js"
   },
   {
-    "revision": "13547bf1f50b8b6352cc",
+    "revision": "a7a6f754c13f48a07ef7",
     "url": "./static/css/2.a810328b.chunk.css"
   },
   {
-    "revision": "13547bf1f50b8b6352cc",
-    "url": "./static/js/2.2389234a.chunk.js"
+    "revision": "a7a6f754c13f48a07ef7",
+    "url": "./static/js/2.d341c085.chunk.js"
   },
   {
     "revision": "444c4b75468c7f054e2a245edeb98b91",
     "url": "./static/media/clock.444c4b75.png"
   },
   {
-    "revision": "20a8fcd6317e14ef1a45ba7a70bd2b6b",
+    "revision": "a246688fa090944e30950d964f66d425",
     "url": "./index.html"
   }
 ];
