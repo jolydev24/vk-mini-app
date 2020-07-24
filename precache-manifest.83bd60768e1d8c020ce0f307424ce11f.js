@@ -1,30 +1,30 @@
 self.__precacheManifest = [
   {
-    "revision": "883fbd5a4c6b8b0897e4",
+    "revision": "9a62c449bb378d862fc1",
     "url": "./static/css/main.6065fcec.chunk.css"
   },
   {
-    "revision": "883fbd5a4c6b8b0897e4",
-    "url": "./static/js/main.7bc32523.chunk.js"
+    "revision": "9a62c449bb378d862fc1",
+    "url": "./static/js/main.bead2211.chunk.js"
   },
   {
     "revision": "8c97409f0ee389fe75da",
     "url": "./static/js/runtime~main.d653cc00.js"
   },
   {
-    "revision": "fd181025f8d51c41fee2",
+    "revision": "96a04b8f195c80db4344",
     "url": "./static/css/2.a810328b.chunk.css"
   },
   {
-    "revision": "fd181025f8d51c41fee2",
-    "url": "./static/js/2.a8f07d8e.chunk.js"
+    "revision": "96a04b8f195c80db4344",
+    "url": "./static/js/2.f5ccb8c6.chunk.js"
   },
   {
     "revision": "b91393c1d479bc1c2c4c2b64996370b5",
     "url": "./static/media/coin.b91393c1.png"
   },
   {
-    "revision": "f907f4725623694982d1360378d35787",
+    "revision": "c9d668fe424e04d056a040e942c809ac",
     "url": "./index.html"
   }
 ];
